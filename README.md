@@ -11,3 +11,6 @@
 ```javascript
 console.log('hello')
 ```
+我的网站是[百度](https://baidu.com)
+
+![这是一张图片](1.png)
